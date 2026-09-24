@@ -1,6 +1,6 @@
 Mininet Network Topology Experiments (Experiment-3)
 
-👤 Author: Aman Srivastava 🎓 Bachelor of Technology (B.Tech) in Computer Science and Engineering 🏫 Adamas University
+👤 Author: Suvankar Pramanik 🎓 Bachelor of Technology (B.Tech) in Computer Science and Engineering 🏫 Adamas University, West Bengal, India | 4th Year | CGPA: 8.6/10
 
 📌 Objective
 To create and configure a simple network topology using an open-source network virtualization tool (Mininet) and verify communication between the virtual network nodes.
@@ -152,9 +152,14 @@ This ensures no residual OpenFlow controllers or OVS bridges interfere with subs
 The lab successfully demonstrated the creation and configuration of various network topologies (Minimal, Single, Linear, Tree, and custom Torus) using Mininet on an Ubuntu VM. Communication between nodes was verified using ping and pingall, confirming 0% packet loss across all tested topologies. The custom Torus topology required STP configuration to handle network loops correctly.
 
 👤 Author
-	
-Name	Aman Srivastava
-Degree	Bachelor of Technology (B.Tech) — Computer Science and Engineering
-University	Adamas University
+
+| Field       | Details                                                        |
+|-------------|----------------------------------------------------------------|
+| Name        | Suvankar Pramanik                                              |
+| Degree      | Bachelor of Technology (B.Tech) — Computer Science and Engineering |
+| University  | Adamas University, West Bengal, India                          |
+| Current Year | 4th Year                                                      |
+| CGPA        | 8.6/10                                                         |
+| Location    | Kolkata, West Bengal, India                                    |
 
 This project was created as part of practical learning in Cloud Computing using Mininet.

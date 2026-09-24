@@ -134,6 +134,14 @@ VirtualBox Documentation
 Ubuntu 26.04 LTS
 
 Submission Details
-Student: Aman
+Student: Suvankar Pramanik
+
+Degree: Bachelor of Technology (B.Tech) — Computer Science and Engineering
+
+University: Adamas University, West Bengal, India
+
+Current Year: 4th Year
+
+CGPA: 8.6/10
 
 Date: August 21, 2026

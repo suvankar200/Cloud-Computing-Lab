@@ -158,7 +158,7 @@ The two Ubuntu virtual machines were successfully connected through the VirtualB
 
 👨‍💻 Author
 
-Aman Srivastava
-B.Tech Computer Science & Engineering
-Adamas University
-
+**Suvankar Pramanik**
+B.Tech — Computer Science & Engineering
+Adamas University, West Bengal, India
+4th Year | CGPA: 8.6/10
